@@ -1,3 +1,5 @@
+### Built for Crustdata's challenge issued on linkedin: https://www.linkedin.com/posts/abhilashchowdhary_were-hiring-cracked-engineers-heres-the-activity-7281490942816071680-xApo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_hkrkBOdnlUVatxa2pTKAXqWQbnm1CREM
+
 # Crustdata
 
 Crustdata is a platform that provides programmatic access to firmographic and growth metrics data for companies worldwide. This repository offers an interface to query Crustdata API documentation efficiently using a vector-based search powered by Pinecone.
